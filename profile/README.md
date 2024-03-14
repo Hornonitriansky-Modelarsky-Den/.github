@@ -9,7 +9,7 @@ Hornonitriansky modelársky deň je akcia kde nájdete modulovú železnicu, mod
 -   [Prievidza](https://prievidza.sk/)
 -   [Bojnice](https://www.bojnice.sk/)
 
-### Partneri:
+## Partneri:
 
 -   [Regionálne kultúrne centrum v Prievidzi](http://www.rkcpd.sk/)
 -   [C.B.oneRailway](https://www.cbonerailway.sk/)
