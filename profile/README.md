@@ -1,4 +1,4 @@
-Hornonitriansky modelársky deň je akcia kde nájdete modulovú železnicu, modely lodí, tankov, lietadiel a deti si budú môcť postaviť za pomoci rodičov model lietadla.
+Hornonitriansky modelársky deň je akcia, kde nájdete modulovú železnicu, modely lodí, tankov, lietadiel a deti si budú môcť postaviť za pomoci rodičov model lietadla.
 
 ## Lokácia:
 
